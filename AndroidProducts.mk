@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_s2.mk
+    $(LOCAL_DIR)/kasumi_s2.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_s2-user \
-    lineage_s2-userdebug \
-    lineage_s2-eng
+    kasumi_s2-user \
+    kasumi_s2-userdebug \
+    kasumi_s2-eng
